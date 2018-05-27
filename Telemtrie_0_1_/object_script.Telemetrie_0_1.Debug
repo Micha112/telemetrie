@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\plot.o
+./debug\mainwindow.o
+./debug\curvedata.o
+./debug\signaldata.o
+./debug\Datenaufbereitung.o
+./debug\datenlogger.o
+./debug\Datensatz.o
+./debug\Datenverarbeitung.o
+./debug\qrc_ressourcenbilder.o
+./debug\moc_plot.o
+./debug\moc_mainwindow.o
+);
