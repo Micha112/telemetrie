@@ -28,6 +28,7 @@
 using namespace std;
 
 /**
+ * EIN KOMMENTAR VON MICHA
  * DIESER KOMMENTAR IST FÜR GIT TEST
  * Die Klasse Datenlogger empfaengt den bearbeiteten Datensatz der Klasse
  * Datenverarbeitung.
